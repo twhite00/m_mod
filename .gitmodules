@@ -1,3 +1,6 @@
 [submodule "s_mod_1"]
 	path = s_mod_1
 	url = https://github.com/twhite00/s_mod_1.git
+[submodule "s_mod_2"]
+	path = s_mod_2
+	url = https://github.com/twhite00/s_mod_2.git
